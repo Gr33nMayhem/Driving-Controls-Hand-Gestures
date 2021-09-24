@@ -10,3 +10,4 @@ How does it work?
   - When two hands are detected, the locatio of both the hannds are used to drive and steer. 
   - When 1 hand is detected, the user can cchange gears to reverese.
 4) The inputs are done with the help of pynput in python.
+5) Video preview: https://youtu.be/V222C7h71tQ
